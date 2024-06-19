@@ -7,7 +7,7 @@ Student Of University Technology Malaysia
 I am currently taking a computer security and networking course, which will take four years to complete. I expect to finish it in another two years. I hope to continue in the networking field as a network technician.
 
 * 🌍  I'm based in Johor Bahru, Johor.
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/azfar-azhar-777088257/)
+* 🖥️  See my portfolio at [portfolio](https://azfar11603.github.io/Azfar.github.io/)
 * ✉️  You can contact me at [azfarazhar11603@gmail.com](mailto:azfarazhar11603@gmail.com)
 * 🧠  I'm learning Cybersecurity and Networking
 
